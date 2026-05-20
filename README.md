@@ -42,5 +42,6 @@ This project analyzes bank loan data using SQL to evaluate loan performance, fin
 - Use SQL views to support future Power BI dashboard automation.
 
 ## Dashboard Preview
-Add screenshot here.
+
+<img width="1450" height="817" alt="Finance dashboard" src="https://github.com/user-attachments/assets/75150520-ac42-4a8e-8171-a1ed77538b66" />
 
